@@ -14,9 +14,9 @@
 
 🎮 **Fun Fact**: Once a pro gamer, now I’m pretty sure game devs sneakily upped the difficulty when I wasn't looking.
 
-🔗 Connect with me or dive into my projects below!
-
 ---
+
+🔗 Connect with me or dive into my projects below!
 
 📫 **Contact**: [@ramon_galego](https://twitter.com/ramon_galego) | ramongalegocs@gmail.com
 
