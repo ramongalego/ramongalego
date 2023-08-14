@@ -18,6 +18,6 @@
 
 ---
 
-💼 **Website**: [ramongalego.dev](https://www.ramongalego.dev)
+📫 **Contact**: [@ramon_galego](https://twitter.com/ramon_galego) | ramongalegocs@gmail.com
 
-📫 **Contact**: ramongalegocs@gmail.com
+💼 **Website**: [ramongalego.dev](https://www.ramongalego.dev)
