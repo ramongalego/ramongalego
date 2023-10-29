@@ -12,7 +12,7 @@
 
 🔍 **Code Philosophy**: "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
 
-🎮 **Fun Fact**: Once a pro gamer, now I’m pretty sure game devs sneakily upped the difficulty when I wasn't looking.
+🎮 **Fun Fact**: Once a pro gamer, now I’m the one everyone wants on the other team.
 
 ---
 
