@@ -19,5 +19,3 @@
 🔗 Connect with me or dive into my projects below!
 
 📫 **Contact**: [@ramon_galego](https://twitter.com/ramon_galego) | ramongalegocs@gmail.com
-
-💼 **Website**: [ramongalego.dev](https://www.ramongalego.dev)
