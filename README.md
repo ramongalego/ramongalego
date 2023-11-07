@@ -1,12 +1,12 @@
 # 👋 Hey there, I'm Ramon
 
-🛠 **Principal Software Engineer** | 🧪 **React & JavaScript Specialist** | 🌐 **Freelancer**
+🛠 **Principal Software Engineer** | 🧪 **React & TypeScript Specialist** | 🌐 **Freelancer**
 
 
-🌱 With over **8 years** of experience, I've navigated the vast landscape of web development, getting hands-on with the core elements of React and the practical facets of JavaScript. I am deeply passionate about exploring new technologies, sharing my knowledge, and assisting others in their tech journey.
+🌱 With over **8 years** of experience, I've navigated the vast landscape of web development, getting hands-on with the core elements of React and the practical facets of JavaScript and TypeScript. I am deeply passionate about exploring new technologies, sharing my knowledge, and assisting others in their tech journey.
 
 🚀 **Things I love**: 
-- Crafting applications with **JavaScript** & **React**
+- Crafting applications with **TypeScript** & **React**
 - Mentoring & teaching the wonders of coding
 - Venturing into new tech territories and pushing boundaries
 
