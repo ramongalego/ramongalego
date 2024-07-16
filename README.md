@@ -12,8 +12,6 @@
 
 🔍 **Code Philosophy**: "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."
 
-🎮 **Fun Fact**: Once a pro gamer, now I’m the one everyone wants on the other team.
-
 ---
 
 🔗 Connect with me or dive into my projects below!
