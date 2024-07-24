@@ -3,7 +3,7 @@
 🛠 **Principal Software Engineer** | 🧪 **React & TypeScript Specialist** | 🌐 **Freelancer**
 
 
-🌱 With over **8 years** of experience, I've navigated the vast landscape of web development, getting hands-on with the core elements of React and the practical facets of JavaScript and TypeScript. I am deeply passionate about exploring new technologies, sharing my knowledge, and assisting others in their tech journey.
+🌱 With over **9 years** of experience, I've navigated the vast landscape of web development, getting hands-on with the core elements of React and the practical facets of JavaScript and TypeScript. I am deeply passionate about exploring new technologies, sharing my knowledge, and assisting others in their tech journey.
 
 🚀 **Things I love**: 
 - Crafting applications with **TypeScript** & **React**
